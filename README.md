@@ -1,4 +1,5 @@
-# Data Scientist/ML Engineer 
+# Data Scientist/ML Engineer
+##### uttam.gogineni@gmail.com
 ### About ME
 I am a Data Scientist and Machine Learning Engineer with over 9 years of experience in developing and deploying advanced machine learning models across various industries, including finance, healthcare, and e-commerce. My expertise spans the full machine learning lifecycle, from data preprocessing and feature engineering to model deployment and MLOps, with a strong focus on scalability and performance optimization. I have a deep understanding of Python and machine learning frameworks like TensorFlow and PyTorch, and I'm skilled in big data technologies such as Apache Spark. My work has contributed to improving business outcomes by driving data-driven decisions and automating complex processes.
 
