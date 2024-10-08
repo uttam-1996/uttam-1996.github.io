@@ -4,5 +4,5 @@ I am a Data Scientist and Machine Learning Engineer with over 9 years of experie
 
 I thrive on solving challenging problems through data analysis and cutting-edge algorithms. I have a proven track record of collaborating with cross-functional teams to build scalable solutions,  With a focus on continuous learning, I stay updated on the latest trends in AI and machine learning and apply them to real-world scenarios. I’m passionate about leveraging data to create actionable insights and helping businesses optimize operations and enhance customer experiences.
 ### Education 
-Ms Business Analytics Golden Gate university 
-Bachelors in Technology: Computer Science  JNTUH
+#### Ms Business Analytics Golden Gate university 
+#### Bachelors in Technology: Computer Science  JNTUH
